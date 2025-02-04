@@ -42,7 +42,7 @@ Follow the steps below:
    ```markdown
    # Contribution
 
-   Hello! I am contributing to this repository as part of the Introduction to GitHub exercise.
+   Hello! I am contributing to this repository as part of the Introduction to GitHub exercise <your name>.
    ```
 
 3. Save the file.
